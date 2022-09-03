@@ -7,4 +7,3 @@ To download the folder please click on "CODE" (1) and then click on "Download ZI
 
 Read carefully the "Readme.docx" file inside the folder before starting.
 
-![download folder finale](https://user-images.githubusercontent.com/107631695/188274265-fc5cace0-11f7-4a82-a6ae-c40d6c5d4e86.jpg)
