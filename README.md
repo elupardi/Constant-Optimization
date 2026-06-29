@@ -3,11 +3,9 @@ Materials and instructions for CO
 
 Hi,
 
-To download the folder please click on "CODE" (1) and then click on "Download ZIP" (2).
+To download the .Zip file please click on Constant-Optimization_v2.zip and then click on the three dots (...) up to the right. 
 
-Open the Constant-Optimization-main folder and 
-
-Extract the "Constant-Optimization" folder
+Extract the .Zip file in a folder
 
 Read carefully the "Readme.docx" file inside the folder before starting.
 
